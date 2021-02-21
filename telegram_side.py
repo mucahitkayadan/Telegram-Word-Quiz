@@ -41,7 +41,7 @@ class Telegram(object):
     def __init__(self):        
         self.selected_language = -1
         self.selected_option = 0
-        self.updater = Updater("1606960702:AAG8xcMPMWlycUjj-FQrU0uXvNhNOfwt2to")
+        self.updater = Updater("enter your token here")
         self.dispatcher = self.updater.dispatcher
         Telegram.run(self)
               
