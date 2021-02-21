@@ -1,0 +1,270 @@
+il padre (father)
+
+la madre (mother)
+
+i genitori (parents)
+
+il fratello (brother)
+
+la sorella (sister)
+
+il marito (husband)
+
+la moglie (wife)
+
+il bambino / la bambina (baby)
+
+il figlio / la figlia (son / daughter)
+
+lo zio / la zia (uncle / aunt)
+
+il nonno/ la nonna (grandfather / grandmother)
+
+il nipote / la nipote (nephew / niece)
+
+il cugino / la cugina (cousin)
+
+il fidanzato / la fidanzata (fiancé / fiancée)
+
+il patrigno / la matrigna (stepfather / stepmother)
+
+il suocero / la suocera (father-in-law / mother-in-law)
+
+il cognato / la cognata (brother-in-law / sister-in-law)
+
+il pesce (fish)
+
+l’uccello (bird)
+
+il gatto / la gatta (cat)
+
+il cane / la cagna (dog)
+
+il cibo (food)
+
+la colazione (breakfast)
+
+il pranzo (lunch)
+
+la cena (dinner)
+
+il pane (bread)
+
+il formaggio (cheese)
+
+il vino (wine)
+
+il caffè (espresso coffee)
+
+il latte (milk)
+
+il tè (tea)
+
+la torta (cake)
+
+il panino (sandwich)
+
+la carne (meat)
+
+la bistecca (steak)
+
+l’insalata (salad)
+
+il sale (salt)
+
+il burro (butter)
+
+la frutta (fruit)
+
+la verdura (vegetable)
+
+il piatto (plate)
+
+il cucchiaio (spoon)
+
+la forchetta (fork)
+
+il coltello (knife)
+
+il bicchiere (glass)
+
+il tavolo (table)
+l’insegnante (teacher)
+
+il medico (doctor)
+
+l’avvocato (lawyer)
+
+l’ingegnere / l’ingegnera (engineer)
+
+il cameriere / la cameriera (waiter)
+
+il contadino / la contadina (farmer)
+
+il commesso / la commessa (shop assistant)
+
+il venditore / la venditrice (salesman / saleswoman)
+
+l’impiegato / l’impiegata (employee)
+
+il segretario / la segretaria (secretary)
+
+lo scrittore / la scrittrice (writer)
+
+lo studente / la studentessa (student)
+
+il casalingo / la casalinga (househusband / housewife)
+
+il pensionato / la pensionata (pensioner)
+
+il disoccupato / la disoccupata (unemployed)
+il primo ministero (prime minister)
+
+il giornale (newspaper)
+
+il congresso (congress)
+
+il parlamento (parliament)
+
+il legislatore (lawmaker)
+
+il deputato / la deputata (deputy)
+
+il cittadino / la cittadina (citizen)
+
+l’elezione (election)
+
+la bandiera (flag)
+la banca (bank)
+
+i contanti (cash)
+
+i soldi (money)
+
+la carta di credito (credit card)
+
+la firma (signature)
+
+il negozio (store)
+
+il mercato (market)
+
+la maglietta (t-shirt)
+
+i pantaloni (pants)
+
+le scarpe (shoes)
+
+la borsa (bag)
+
+il cappello (hat)
+
+il cappotto (coat)
+
+l’abito (suit)
+
+il vestito (dress)
+
+l’accessorio (accessory)
+
+la cintura (belt)
+
+la collana (necklace)
+
+l’anello (ring)
+
+gli orecchini (earrings)
+
+il braccialetto (bracelet)
+i passatempi (hobbies)
+
+lo sport (sport)
+
+il calcio (soccer)
+
+la pallavolo (volleyball)
+
+la pallacanestro (basketball)
+
+il ciclismo (cycling)
+
+lo sci (skiing)
+
+il tennis (tennis)
+
+la spiaggia (beach)
+
+il libro (book)
+
+il film (movie)
+
+l’attore (actor)
+
+l’attrice (actress)
+
+la musica (music)
+la casa (house)
+
+la camera da letto (bedroom)
+
+la cucina (kitchen)
+
+il bagno (bathroom)
+
+la porta (door)
+
+la finestra (window)
+
+la scala (stairs)
+
+il soffitto (ceiling)
+
+il tetto (roof)
+
+il letto (bed)
+
+il orologio (clock)
+
+il cuscino (pillow)
+
+la coperta (blanket)
+
+il sapone (soap)
+
+lo specchio (mirror)
+
+l’asciugamano (towel)
+
+la scopa (broom)
+
+il ferro da stiro (iron)
+
+il frigo (fridge)
+
+la lavatrice (washing machine)
+l’automobile (car)
+
+l’autobus (bus)
+
+la bicicletta (bike)
+
+il treno (train)
+
+il camion (truck)
+
+l’aeroplano (airplane)
+
+la barca (boat)
+l’automobile (car)
+
+l’autobus (bus)
+
+la bicicletta (bike)
+
+il treno (train)
+
+il camion (truck)
+
+l’aeroplano (airplane)
+
+la barca (boat)
